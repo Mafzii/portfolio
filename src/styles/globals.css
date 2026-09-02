@@ -110,7 +110,7 @@ code.hljs {
 }
 
 ::selection {
-  background: var(--color-slate-600);
+  background: #3f3f46;
   color: #fff;
 }
 

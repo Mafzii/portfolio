@@ -1,9 +1,9 @@
 {
-  "slug": "smart-scraper",
-  "name": "Smart Scraper",
-  "date": "2025-09-08",
-  "description": "A Python-based web scraper for extracting structured data from websites. Designed for flexibility and automation.",
-  "tech": ["Python", "Requests", "BeautifulSoup", "Automation"],
-  "link": "",
-  "repo": "https://github.com/Mafzii/smart-scraper"
+  "slug": "wnder",
+  "name": "Wnder",
+  "date": "2026-09-01",
+  "description": "A social safety app for logging your wanders through location, photos, and notes, with a built-in safety timer. If it is not ended manually, Wnder securely shares the session as a web report with emergency contacts.",
+  "tech": ["Spring Boot", "Java", "Swift", "PostgreSQL", "S3", "Firebase"],
+  "link": "https://wnderapp.com",
+  "repo": ""
 }

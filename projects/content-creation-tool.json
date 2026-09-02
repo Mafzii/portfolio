@@ -1,0 +1,9 @@
+{
+  "slug": "content-creation-tool",
+  "name": "Content Creation Tool",
+  "date": "2026-02-27",
+  "description": "A local LLM-assisted drafting tool for managing topics, sources, and writing styles, then generating and refining content variants. Includes a custom MCP server so AI assistants can manage content directly through tool calls.",
+  "tech": ["Go", "SQLite", "JavaScript", "MCP", "Gemini", "Claude", "OpenAI"],
+  "link": "",
+  "repo": "https://github.com/Mafzii/content-creation-tool"
+}
