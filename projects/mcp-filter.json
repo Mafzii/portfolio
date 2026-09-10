@@ -1,0 +1,9 @@
+{
+  "slug": "mcp-filter",
+  "name": "MCP Tool Filter",
+  "date": "2025-10-09",
+  "description": "A Python tool for selecting specific tools from multiple remote MCP servers and combining them into one focused custom server. Includes an interactive CLI, authentication support, and generated configuration for AI clients.",
+  "tech": ["Python", "MCP", "CLI", "OAuth", "Docker"],
+  "link": "",
+  "repo": "https://github.com/Mafzii/mcp-filter"
+}
