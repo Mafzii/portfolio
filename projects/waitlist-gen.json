@@ -1,0 +1,9 @@
+{
+  "slug": "waitlist-gen",
+  "name": "Waitlist Generator",
+  "date": "2025-10-19",
+  "description": "A static site generator for creating customizable waitlist landing pages. Includes a serverless form backend, domain-based routing, and Google Sheets storage for managing multiple waitlists from one deployment.",
+  "tech": ["TypeScript", "Google Sheets API", "Vercel", "HTML", "CSS"],
+  "link": "",
+  "repo": "https://github.com/Mafzii/waitlist-gen"
+}
